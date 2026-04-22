@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+
+# uv
+.venv/
+uv.lock
+
+# Coverage
+.coverage
+htmlcov/
+
+# macOS
+.DS_Store
+
+# Project user data (never commit)
+~/.okolica/
